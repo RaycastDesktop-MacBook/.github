@@ -1,4 +1,4 @@
-# Raycast-Desktop MacBook  
+# Raycast Desktop MacBook  
 ![logo](https://cdn.neowin.com/news/images/uploaded/2025/06/1750923786_raycast-2.webp)
 
 **Raycast-Desktop MacBook** is a fast and powerful desktop launcher designed to **access apps, commands, and workflows on macOS** ⚡🖥️.  
